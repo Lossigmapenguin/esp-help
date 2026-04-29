@@ -1,8 +1,8 @@
-package com.cigar.client.mixin;
+package com.goon.client.mixin;
 
 
 
-import com.cigar.client.visual.ESPController;
+import com.goon.client.visual.ESPController;
 
 import com.mojang.blaze3d.opengl.GlStateManager;
 
