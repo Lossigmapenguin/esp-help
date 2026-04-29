@@ -1,4 +1,4 @@
-package com.cigar.client.visual;
+package com.goon.client.visual;
 
 import com.mojang.blaze3d.opengl.GlStateManager;
 import net.minecraft.client.MinecraftClient;
